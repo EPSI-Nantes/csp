@@ -7,3 +7,5 @@ Mise en place de git:
 
 A mettre dans gitignore:
 - fichier de configuration eclipse/xcode/autre
+
+Hello world
